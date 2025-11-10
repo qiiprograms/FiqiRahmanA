@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #101820;
+  color: #f2f2f2;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+header {
+  background: #1e1e2f;
+  padding: 2rem 0;
+}
+
+h1 {
+  color: #00bcd4;
+}
+
+#projects {
+  padding: 2rem;
+}
+
+.project {
+  background: #29293d;
+  margin: 1rem auto;
+  padding: 1rem;
+  border-radius: 10px;
+  width: 60%;
+}
